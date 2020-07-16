@@ -1,0 +1,25 @@
+{
+  "name": "expenses",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MayheMatan/Expenses.git"
+  },
+  "author": "Matan Fried",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MayheMatan/Expenses/issues"
+  },
+  "homepage": "https://github.com/MayheMatan/Expenses#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "moment": "^2.27.0",
+    "mongoose": "^5.9.24"
+  }
+}
